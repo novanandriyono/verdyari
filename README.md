@@ -1,0 +1,2 @@
+# verdyari
+webpack plugin
